@@ -2,7 +2,7 @@
 
 ## Imagem
 
-A imagem foi criada por meio de stages, o primeiro stage foi baseado em:
+A imagem foi criada por meio de stages, o primeiro stage (chamado de build) foi baseado em:
 ```
 # stage de build
 FROM golang:alpine AS build
