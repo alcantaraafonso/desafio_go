@@ -46,3 +46,5 @@ A porta exposta pela imgem é: 8080
 ## Execução
 O resultado pode ser obtido da seguinte forma:
 curl http://localhost:8080
+
+O retorno será FullCycle Rocks!!
